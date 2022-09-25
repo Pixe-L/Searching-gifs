@@ -1,5 +1,5 @@
 <div align="center">
-<a target="_blank" href="https://www.youtube.com/c/TUTOSPIXEL/join"><img width="100px" src="./public/favicon-32x32.png"/></a>
+<a target="_blank" href="https://www.youtube.com/c/TUTOSPIXEL/join"><img width="100px" src="./docs/favicon-32x32.png"/></a>
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 Check out: [SerachYourGifs!](https://pixe-l.github.io/Searching-gifs/)
 
-![PixelDev](./public/Screenshot_2022-09-25-16-49-41_1920x1080.png)
+![PixelDev](./docs/Screenshot_2022-09-25-16-49-41_1920x1080.png)
 
 ## 👨‍💻About
 
