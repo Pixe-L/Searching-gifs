@@ -9,7 +9,7 @@
 <a href="https://twitter.com/iPiixeeL" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@iPiixeeL-skyblue?style=flat&logo=Twitter"></a>
 </p>
 
-🔰 My personal website.
+🔰 My first app for search gifs.
 
 ## 💻Preview
 
